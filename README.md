@@ -1,1 +1,1 @@
-# www.ck.milarch.org
+ck.milarch.org
